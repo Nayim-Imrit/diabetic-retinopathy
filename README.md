@@ -17,9 +17,6 @@ Alternatively, you can use our pretrained model by loading the model.hd5.
 ### Results
 
 The training converged to an accuracy of about 80%. With the validation scores for a small test set generated as,
-
-<img src='images/classification_report.png' style='margin:0px' width=600>
-
 The training data was generated as, 
 <table style='margin:0px'><tr><td><img src='images/model_accuracy_loss.png'></td></tr></table>
 
